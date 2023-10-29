@@ -11,7 +11,7 @@
 <h2 align="center">Hello world! I am Christos, a self-taught full stack web developer. 💻</h2>
 <p align="center">I've recently completed Harvard's CS50x and I feel ready to embark on this exciting journey of Computer Science and be a part of amazing projects 😆</p>
 
-<em><p align="center"><a href="">If you want to know more about me check this simple website I created during one of the Problems Sets of CS50</a></p></em>
+<em><p align="center"><a href="https://christosgkoutzis.github.io/About-me/">If you want to know more about me check this simple website I created during one of the Problems Sets of CS50</a></p></em>
 
 ### 💾 Projects that I've created
 
