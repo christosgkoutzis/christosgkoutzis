@@ -83,3 +83,5 @@
 
  - Email: christosgkoutzis@gmail.com
 
+ - LinkedIn: www.linkedin.com/in/christos-gkoutzis-7285972a3 
+
