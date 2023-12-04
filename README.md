@@ -81,3 +81,5 @@
 
 ### 📞 Contact Info
 
+ - Email: christosgkoutzis@gmail.com
+
