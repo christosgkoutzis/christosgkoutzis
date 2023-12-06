@@ -29,6 +29,18 @@
 
 </details>
 
+<details>
+	
+<summary> Personal Homepage </summary> <br/>
+
+- **Summary:** An introductory simple 4-page website, developed with front-end technologies (HTML, CSS, JavaScript, Bootstrap) that contains basic information about my career, my interests and my future ambitions. <br/>
+
+- <a href="https://github.com/christosgkoutzis/About-me">Project's Repository</a> <br/>
+
+- <a href="https://christosgkoutzis.github.io/About-me/">Have a look at the project!</a> <br/>
+
+</details>
+
 </br>
 
 ### 🔧 Open source projects that I have contributed
@@ -77,7 +89,7 @@
 ### 👨‍🎓 What I am currently learning
 </br>
 
-  - PHP
+  - PHP, Laravel
 
 ### 📞 Contact Info
 
