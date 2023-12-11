@@ -76,6 +76,8 @@
       - Bootstrap 5
         
       - Flask
+
+						- SASS (CSS Preprocessor)
   
   - **CMS**
   
@@ -89,7 +91,9 @@
 ### 👨‍🎓 What I am currently learning
 </br>
 
-  - PHP, Laravel
+  - React JS
+
+		- Java, Spring Boot
 
 ### 📞 Contact Info
 
