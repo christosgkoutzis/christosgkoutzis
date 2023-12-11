@@ -77,7 +77,7 @@
         
       - Flask
 
-						- SASS (CSS Preprocessor)
+      - SASS (CSS preprocessor)
   
   - **CMS**
   
@@ -93,7 +93,7 @@
 
   - React JS
 
-		- Java, Spring Boot
+  - Java, Spring Boot
 
 ### 📞 Contact Info
 
