@@ -4,7 +4,7 @@
 <img height="60" src="html-5.png">
 <img height="60" src="css-3.png">
 <img height="60" src="js.png">
-<img height="60" src="php.png">
+<img height="60" src="python.png">
 <img height="60" src="wordpress.png">
 </p>
 
@@ -38,6 +38,16 @@
 - <a href="https://github.com/christosgkoutzis/About-me">Project's Repository</a> <br/>
 
 - <a href="https://christosgkoutzis.github.io/About-me/">Have a look at the project!</a> <br/>
+
+</details>
+
+<details>
+	
+<summary> Information Security Certification Projects </summary> <br/>
+
+- **Summary:** A collection of 4 projects including 2 full stack web applications developed using the MERN stack (a NASDAQ Stock Price Checker and an Anonymous Message Board) and 2 Python programs (a SHA-1 Password Cracker and a Port Scanner) that I've built during my Information Security Certificatation by FreeCodeCamp. <br/>
+
+- <a href="https://github.com/christosgkoutzis/Information_Security_Certification">Projects's repository</a> <br/>
 
 </details>
 
@@ -77,23 +87,53 @@
         
       - Flask
 
+      - Express JS
+
       - SASS (CSS preprocessor)
+
+  - **Databases**
   
+      - SQL (Relational)
+        
+      - MongoDB (Non Relational)
+    
+  - **Version Control**
+  
+      - Git - GitHub
+
   - **CMS**
   
       - WordPress
-  
-  - **Version Control**
-  
-      - Git
 
+### 👨‍🎓 Certificates
+</br>
 
+<details>
+	
+<summary> CS50x (Harvard University's Introduction to Computer Science and the arts of Programming) </summary> <br/>
+
+<p align="center">
+  <img src="CS50x.png" alt="Information Security Certificate" width=200px>
+</p>
+
+</details>
+
+<details>
+	
+<summary> Information Security Certification (300 hour FreeCodeCamp curriculum on user security threats in web applications and web technologies to protect them) </summary> <br/>
+
+<p align="center">
+  <img src="Information_Security.png" alt="Information Security Certificate" width=200px>
+</p>
+
+</details>
+  
 ### 👨‍🎓 What I am currently learning
 </br>
 
   - React JS
 
-  - Java, Spring Boot
+  - Next JS
 
 ### 📞 Contact Info
 
