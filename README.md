@@ -67,6 +67,7 @@
 
 ### 👨‍💻 Programming/Markup languages, frameworks and other Web Development technologies I've worked with
 
+
   - **Programming Languages**
   
       - C
@@ -106,7 +107,7 @@
       - WordPress
 
 ### 👨‍🎓 Certificates
-</br>
+
 
 <details>
 	
@@ -129,7 +130,8 @@
 </details>
   
 ### 📖 What I am currently learning
-</br>
+
+
   - React JS
 
   - Next JS
