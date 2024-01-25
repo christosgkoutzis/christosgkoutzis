@@ -113,7 +113,7 @@
 <summary> CS50x (Harvard University's Introduction to Computer Science and the arts of Programming) </summary> <br/>
 
 <p align="center">
-  <img src="CS50x.png" alt="Information Security Certificate" width=200px>
+  <img src="CS50x.png" alt="Information Security Certificate" width=80%>
 </p>
 
 </details>
@@ -123,7 +123,7 @@
 <summary> Information Security Certification (300 hour FreeCodeCamp curriculum on user security threats in web applications and web technologies to protect them) </summary> <br/>
 
 <p align="center">
-  <img src="Information_Security.png" alt="Information Security Certificate" width=200px>
+  <img src="Information_Security.png" alt="Information Security Certificate" width=80%>
 </p>
 
 </details>
