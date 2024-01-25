@@ -128,9 +128,8 @@
 
 </details>
   
-### 👨‍🎓 What I am currently learning
+### 📖 What I am currently learning
 </br>
-
   - React JS
 
   - Next JS
