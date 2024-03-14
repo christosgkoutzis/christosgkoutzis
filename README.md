@@ -4,6 +4,7 @@
 <img height="60" src="html-5.png">
 <img height="60" src="css-3.png">
 <img height="60" src="js.png">
+<img height="60" src="ts.png">
 <img height="60" src="python.png">
 <img height="60" src="wordpress.png">
 </p>
@@ -42,6 +43,18 @@
 </details>
 
 <details>
+
+<summary> Muses </summary> <br/>
+
+- **Summary:** A website for a contemporary Art Museum located in Athens Greece. It's developed using a Figma design from a UX-UI designer and was used as the final project of CS50x course. <br/>
+
+- <a href="https://github.com/christosgkoutzis/Muses">Projects's repository</a> <br/>
+
+- <a href="https://christosgkoutzis.github.io/Muses/">Have a look at the project!</a> <br/>
+
+</details>
+
+<details>
 	
 <summary> Information Security Certification Projects </summary> <br/>
 
@@ -50,6 +63,17 @@
 - <a href="https://github.com/christosgkoutzis/Information_Security_Certification">Projects's repository</a> <br/>
 
 </details>
+
+<details>
+	
+<summary> NextJStore </summary> <br/>
+
+- **Summary:** A full stack web application of a digital marketplace developed with TypeScript, React, NextJS, Tailwind CSS and WordPress with its RestAPI feature as a headless CMS. <br/>
+
+- <a href="https://github.com/christosgkoutzis/NextJStore">Projects's repository</a> <br/>
+
+</details>
+
 
 </br>
 
@@ -61,7 +85,7 @@
 
 </br>
 
-* Muses (A website of a contemporary art museum based in Athens, Greece)
+* NextJStore (A full stack web application of a digital marketplace developed with TypeScript, React, NextJS, Tailwind CSS and WordPress with its RestAPI feature as a headless CMS.)
 
 </br>
 
@@ -74,7 +98,9 @@
         
       - Python
         
-      - JavaScript 
+      - JavaScript
+        
+      - TypeScript
   
   - **Markup Languages**
   
@@ -82,15 +108,19 @@
         
       - CSS3
   
-  - **Frameworks**
+  - **Frameworks - Libraries**
   
       - Bootstrap 5
+
+      - SASS (CSS preprocessor)
         
+      - Tailwind CSS
+        
+      - Mocha - Chai (JS assertion libraries)
+   
       - Flask
 
       - Express JS
-
-      - SASS (CSS preprocessor)
 
   - **Databases**
   
@@ -129,12 +159,11 @@
 
 </details>
   
-### 📖 What I am currently learning
+### 📖 What I am currently learning (technologies - courses)
 
+  - React - NextJS
 
-  - React JS
-
-  - Next JS
+  - The Regeneration Initiative: AI 360 School powered by Microsoft
 
 ### 📞 Contact Info
 
