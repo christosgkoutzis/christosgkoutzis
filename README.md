@@ -122,7 +122,7 @@
 
       - Express JS
 
-  - **Databases**
+  - **Database Management**
   
       - SQL (Relational)
         
