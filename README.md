@@ -89,7 +89,7 @@
 
 </br>
 
-### 👨‍💻 Programming/Markup languages, frameworks and other Web Development technologies I've worked with
+### 👨‍💻 Languages, web stacks and other Web Development technologies I've worked with
 
 
   - **Programming Languages**
