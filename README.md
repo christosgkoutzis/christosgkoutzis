@@ -163,18 +163,25 @@ Work in progress...
   <img src="Information_Security.png" alt="Information Security Certificate" width=80%>
 </p>
 
+</details>
+
+<details>
+
 <summary> The ReGenaration Initiative: AI 360 School powered by Microsoft </summary> <br/>
 
 <p align="center">
   <img src="Microsoft AI 360 School.jpg" alt="Microsoft AI 360 School" width=80%>
 </p>
 
+</details>
+
+<details>
+
 <summary> Microsoft Certified AI-900: Azure AI Fundamentals </summary> <br/>
 
 <p align="center">
   <img src="Microsoft AI 900 (Azure AI Fundamentals).jpg" alt="Microsoft AI 900 (Azure AI Fundamentals)" width=80%>
 </p>
-
 
 </details>
   
