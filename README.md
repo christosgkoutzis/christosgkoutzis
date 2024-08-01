@@ -10,9 +10,11 @@
 </p>
 
 <h2 align="center">Hello world! I am Christos, a self-taught full stack web developer. 💻</h2>
-<p align="center">I've recently completed Harvard's CS50x and I feel ready to embark on this exciting journey of Computer Science and be a part of amazing projects 😆</p>
+<p align="center">I have completed Harvard's CS50x and I feel ready to embark on this exciting journey of Computer Science and be a part of amazing projects 😆</p>
 
 <em><p align="center"><a href="https://christosgkoutzis.github.io/About-me/">If you want to know more about me check this simple website I created during one of the Problems Sets of CS50</a></p></em>
+
+<em><p align="center"><a href="https://github.com/christosgkoutzis/NextJStore">Check my latest project, NextJStore (full-stack digital marketplace)</a></p></em>
 
 ### 💾 Projects that I've created
 
@@ -71,6 +73,8 @@
 - **Summary:** A full stack web application of a digital marketplace developed with TypeScript, React, NextJS, Tailwind CSS and WordPress with its RestAPI feature as a headless CMS. <br/>
 
 - <a href="https://github.com/christosgkoutzis/NextJStore">Projects's repository</a> <br/>
+
+- <a href="https://nextjstore-six.vercel.app/">Have a look at the project!</a> <br/>
 
 </details>
 
@@ -159,13 +163,24 @@ Work in progress...
   <img src="Information_Security.png" alt="Information Security Certificate" width=80%>
 </p>
 
+<summary> The ReGenaration Initiative: AI 360 School powered by Microsoft </summary> <br/>
+
+<p align="center">
+  <img src="Microsoft AI 360 School.jpg" alt="Microsoft AI 360 School" width=80%>
+</p>
+
+<summary> Microsoft Certified AI-900: Azure AI Fundamentals </summary> <br/>
+
+<p align="center">
+  <img src="Microsoft AI 900 (Azure AI Fundamentals).jpg" alt="Microsoft AI 900 (Azure AI Fundamentals)" width=80%>
+</p>
+
+
 </details>
   
 ### 📖 What I am currently learning (technologies - courses)
 
   - React - NextJS
-
-  - The Regeneration Initiative: AI 360 School powered by Microsoft
 
 ### 📞 Contact Info
 
