@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center">Hello world! I am Christos, a self-taught full stack web developer. 💻</h2>
-<p align="center">I have completed Harvard's CS50x and I feel ready to embark on this exciting journey of Computer Science and be a part of amazing projects 😆</p>
+<p align="center">I have completed Harvard's CS50x, I am an MSc student in Information and Communications Technology (UniWA) and I feel ready to embark on this exciting journey of Software Development and be a part of amazing projects 😆</p>
 
 <em><p align="center"><a href="https://christosgkoutzis.github.io/About-me/">If you want to know more about me check this simple website I created during one of the Problems Sets of CS50</a></p></em>
 
@@ -187,7 +187,7 @@ Work in progress...
   
 ### 📖 What I am currently learning (technologies - courses)
 
-  - React - NextJS
+  - MSc in Information and Communications Technology (University of West Attica)
 
 ### 📞 Contact Info
 
