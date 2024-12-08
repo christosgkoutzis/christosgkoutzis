@@ -9,7 +9,7 @@
 <img height="60" src="wordpress.png">
 </p>
 
-<h2 align="center">Hello world! I am Christos, a self-taught full stack web developer. 💻</h2>
+<h2 align="center">Hello world! I am Christos, a guy who wants to convert problems into software. 💻</h2>
 <p align="center">I have completed Harvard's CS50x, I am an MSc student in Information and Communications Technology (UniWA) and I feel ready to embark on this exciting journey of Software Development and be a part of amazing projects 😆</p>
 
 <em><p align="center"><a href="https://christosgkoutzis.github.io/About-me/">If you want to know more about me check this simple website I created during one of the Problems Sets of CS50</a></p></em>
@@ -91,7 +91,7 @@ Work in progress...
 
 </br>
 
-* NextJStore (A full stack web application of a digital marketplace developed with TypeScript, React, NextJS, Tailwind CSS and WordPress with its RestAPI feature as a headless CMS.)
+* Kill Parkinson (A Web Design project about improving performance, security, adding core features and redesigning the UI of an NGO's website based in Berlin. Learn more <a href="https://www.kill-parkinson.org/">here</a>)
 
 </br>
 
