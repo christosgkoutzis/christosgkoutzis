@@ -1,6 +1,7 @@
 ![CHRISTOS GKOUTZIS](profile-banner.png)
 
 <p align='center'>
+<img height="60" src="c.png">
 <img height="60" src="html-5.png">
 <img height="60" src="css-3.png">
 <img height="60" src="js.png">
@@ -19,6 +20,16 @@
 ### 💾 Projects that I've created
 
 </br>
+
+<details>
+	
+<summary> C-BaseWizard </summary> <br/>
+
+- **Summary:** A simple command-line toolkit written in C for performing basic math-related tasks with integers in different bases. <br/>
+
+- <a href="https://github.com/christosgkoutzis/C-BaseWizard">Project's Repository</a> <br/>
+
+</details>
 
 <details>
 	
