@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">Hello there! I'm Christos, passionate about transforming problems into innovative software solutions. 💻</h2>
-<p align="center">Completing my BSc studies in the Hellenic Army Academy, currently pursuing an MSc in Information and Communications Technology at UniWA and with hands-on experience in Software Development, Web Design, and Project Management, I'm excited to contribute to impactful software projects and continue learning and growing in the tech field. Let's connect and build something great! 😆</p>
+<p align="center">Completing my BSc studies in the Hellenic Army Academy, pursuing an MSc in Information and Communications Technology at UniWA and having hands-on experience in Software Development, Web Design, and Project Management, I'm excited to contribute to impactful software projects and continue learning and growing in the tech field. Let's connect and build something great! 😆</p>
 
 <em><p align="center"><a href="https://github.com/christosgkoutzis/NextJStore">Check my latest project, NextJStore (full-stack digital marketplace)</a></p></em>
 
@@ -116,6 +116,8 @@ Work in progress...
       - JavaScript
         
       - TypeScript
+        
+      - Java
   
   - **Markup Languages**
   
@@ -139,7 +141,7 @@ Work in progress...
 
   - **Database Management**
   
-      - SQL (Relational)
+      - SQL (Relational), MySQL
         
       - MongoDB (Non Relational)
     
