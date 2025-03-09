@@ -10,14 +10,12 @@
 <img height="60" src="wordpress.png">
 </p>
 
-<h2 align="center">Hello world! I am Christos, a guy who wants to convert problems into software. 💻</h2>
-<p align="center">I have completed Harvard's CS50x, I am an MSc student in Information and Communications Technology (UniWA) and I feel ready to embark on this exciting journey of Software Development and be a part of amazing projects 😆</p>
-
-<em><p align="center"><a href="https://christosgkoutzis.github.io/About-me/">If you want to know more about me check this simple website I created during one of the Problems Sets of CS50</a></p></em>
+<h2 align="center">Hello there! I'm Christos, passionate about transforming problems into innovative software solutions. 💻</h2>
+<p align="center">Completing my BSc studies in the Hellenic Army Academy, currently pursuing an MSc in Information and Communications Technology at UniWA and with hands-on experience in Software Development, Web Design, and Project Management, I'm excited to contribute to impactful software projects and continue learning and growing in the tech field. Let's connect and build something great! 😆</p>
 
 <em><p align="center"><a href="https://github.com/christosgkoutzis/NextJStore">Check my latest project, NextJStore (full-stack digital marketplace)</a></p></em>
 
-### 💾 Projects that I've created
+### 💾 Projects that I've developed
 
 </br>
 
